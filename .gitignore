@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+dist/
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Data outputs
+uploads/
+results/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
